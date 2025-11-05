@@ -1,4 +1,4 @@
-# Forensic-Image-Carving-and-Metadata-Project
+# Recovery and Analysis of Digital Images Using EXIF Metadata for Case Investigations
 
 **Project Summary:** 
 This project involved forensic analysis of a 1GB USB thumb drive to uncover evidence linked to a suspected human trafficking case. By employing forensic tools like Scalpel, Foremost, and ImageMagick, critical files were carved, revealing a key JPG file with an MD5 hash that matched the suspect’s known image file. Analysis of EXIF data provided insights into the date, time, and location metadata, including latitude/longitude and the make/model of the camera used. Further investigation uncovered a secret message that ultimately led to the suspect’s hideout location, later confirmed using Google Maps.
