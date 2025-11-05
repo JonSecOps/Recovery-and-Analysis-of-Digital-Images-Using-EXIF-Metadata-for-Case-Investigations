@@ -11,3 +11,4 @@ This project involved forensic analysis of a 1GB USB thumb drive to uncover evid
   4. Uncovered hidden messages through file extraction, adding value to forensic evidence and assisting in locating the suspect's hideout.
   5. Enhanced knowledge in forensic image processing and the practical application of digital forensic tools in criminal investigations.
 
+https://github.com/JonSecOps/Recovery-and-Analysis-of-Digital-Images-Using-EXIF-Metadata-for-Case-Investigations/blob/main/Recovery%20and%20Analysis%20of%20Digital%20Images%20Using%20EXIF%20Metadata%20for%20Case%20Investigations.pdf
